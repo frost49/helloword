@@ -1,0 +1,15 @@
+C:\Users\дмитрий\Desktop\yyyyy\primer001\bin\Debug\net7.0\primer001.exe
+C:\Users\дмитрий\Desktop\yyyyy\primer001\bin\Debug\net7.0\primer001.deps.json
+C:\Users\дмитрий\Desktop\yyyyy\primer001\bin\Debug\net7.0\primer001.runtimeconfig.json
+C:\Users\дмитрий\Desktop\yyyyy\primer001\bin\Debug\net7.0\primer001.dll
+C:\Users\дмитрий\Desktop\yyyyy\primer001\bin\Debug\net7.0\primer001.pdb
+C:\Users\дмитрий\Desktop\yyyyy\primer001\obj\Debug\net7.0\primer001.csproj.AssemblyReference.cache
+C:\Users\дмитрий\Desktop\yyyyy\primer001\obj\Debug\net7.0\primer001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\дмитрий\Desktop\yyyyy\primer001\obj\Debug\net7.0\primer001.AssemblyInfoInputs.cache
+C:\Users\дмитрий\Desktop\yyyyy\primer001\obj\Debug\net7.0\primer001.AssemblyInfo.cs
+C:\Users\дмитрий\Desktop\yyyyy\primer001\obj\Debug\net7.0\primer001.csproj.CoreCompileInputs.cache
+C:\Users\дмитрий\Desktop\yyyyy\primer001\obj\Debug\net7.0\primer001.dll
+C:\Users\дмитрий\Desktop\yyyyy\primer001\obj\Debug\net7.0\refint\primer001.dll
+C:\Users\дмитрий\Desktop\yyyyy\primer001\obj\Debug\net7.0\primer001.pdb
+C:\Users\дмитрий\Desktop\yyyyy\primer001\obj\Debug\net7.0\primer001.genruntimeconfig.cache
+C:\Users\дмитрий\Desktop\yyyyy\primer001\obj\Debug\net7.0\ref\primer001.dll
